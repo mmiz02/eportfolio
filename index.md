@@ -17,13 +17,29 @@
 
 ### University of Essex Learning Experience
 
-*   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
-*   [Module 1 **The Data Professional**]
-*   [Module 2 **Numerical Analysis**](http://example.com/)
-*   [Module 3 Title](http://example.com/)(https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [Module 4 Title](http://example.com/)
-*   [Module 5 Title](http://example.com/)
+### University of Essex Learning Experience
 
+* [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
+
+<details>
+<summary><strong>Module 1: The Data Professional</strong></summary>
+
+- [Lecture Notes](#)
+- [Assignments](#)
+- [Reflections](#)
+- [Project](#)
+
+</details>
+
+<details>
+<summary><strong>Module 2: Numerical Analysis</strong></summary>
+
+- [Data Activity 1.1 and 1.2](https://github.com/mmiz02/eportfolio/blob/master/module-1/data-activity-1.2.md)
+- [Assignments](#)
+- [Reflections](#)
+- [Project](#)
+
+</details>
 ---
 
 ---
