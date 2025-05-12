@@ -19,7 +19,7 @@
 
 ### University of Essex Learning Experience
 
-* [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
+
 
 <details>
 <summary><strong>Module 1: The Data Professional</strong></summary>
