@@ -1,6 +1,6 @@
 ## E-Portfolio of   
 
-![][(https://github.com/mmiz02/eportfolio/blob/master/images/2.jpg)]
+![My image](https://raw.githubusercontent.com/mmiz02/eportfolio/master/images/2.jpg)
 
 # Monique Mizzi - Numerical Analysis       
 
