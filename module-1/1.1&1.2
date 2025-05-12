@@ -1,0 +1,46 @@
+# 📊 Data Activity 1 – Crime Survey for England and Wales (2013–2014)
+
+## 🔽 Data Activity 1.1 – Downloading and Preparing the Dataset
+
+For this activity, I downloaded the **Crime Survey for England and Wales, 2013–2014: Unrestricted Access Teaching Dataset** from the UK Data Service. The dataset is openly accessible and does not require registration.
+
+- ✅ I downloaded the **SPSS (.sav)** version of the dataset.
+- ✅ I saved the dataset into a dedicated folder to store all my data files and R scripts for this module.
+- ✅ This ensures consistency and easy access as I’ll return to this dataset throughout the course.
+
+📌 _Note: I can access the full UK Data Service resources through my University of Essex institutional login for future use._
+
+---
+
+## 📈 Data Activity 1.2 – Summary of Anti-Social Behaviour
+
+### 🎯 Objective
+To assess how much anti-social behaviour respondents reported in their local neighbourhoods using the variable `antisocx`.
+
+### 🔍 Analysis in R
+I used the following R code to generate a summary statistic for anti-social behaviour:
+
+install.packages("haven")
+library(haven)
+> data <- read_sav("~/Downloads/R/UKDA-8011-spss/spss/spss24/csew1314teachingopen.sav")
+> summary(data$antisocx)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max.    NA's 
+-1.2153 -0.7882 -0.1846 -0.0075  0.5280  4.0146    6694 
+> attr(data$antisocx, "labels")
+NULL
+> table(data$antisocx, useNA = "ifany")
+# Bar plot
+> install.packages("ggplot2")
+> library(ggplot2)
+ # Bar plot
+> library(ggplot2)
+> ggplot(data, aes(x = factor(antisocx))) +
++     geom_bar() +
++     ylim(0, 75) +  # Adjust 500 to whatever suits your plot
++     xlab("Perceived Anti-Social Behaviour Level") +
++     ylab("Number of Respondents") +
++     theme_minimal()
+
+The plot can be viewed here:
+
+The output gave a count of how many respondents observed anti-social behaviour in their neighbourhood. This is a quick way to understand the distribution and how widespread these experiences were.
