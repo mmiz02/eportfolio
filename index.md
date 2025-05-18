@@ -62,7 +62,8 @@ prop.table(table(data$bcsvictim))
 
 data$bcsvictim <- as_factor(data$bcsvictim)
 table(data$bcsvictim)
-
+ </details>
+</li>
     <details>
       <summary>Reflections</summary>
       <p>Add your reflections or link to a Markdown file.</p>
