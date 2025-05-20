@@ -62,7 +62,7 @@ prop.table(table(data$bcsvictim))
 
 data$bcsvictim <- as_factor(data$bcsvictim)
 table(data$bcsvictim)
-'''
+```
  </details>
 </li>
     <details>
