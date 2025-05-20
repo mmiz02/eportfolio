@@ -3,7 +3,7 @@ Using the Crime Survey for England and Wales, 2013–2014: Unrestricted Access T
 
 After converting the variable from its original labelled format to a factor using haven::as_factor(), I produced a frequency table to explore responses:
 
-1,383 respondents (15.6%) reported experiencing a crime.
+1,383 respondents (15.6%) reported experiencing a crime .
 
 7,460 respondents (84.4%) reported no crime experience.
 
