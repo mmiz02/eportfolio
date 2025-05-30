@@ -1,0 +1,58 @@
+## 📘 Week 2: Data Visualisation – Crime Survey Analysis (2013–2014)
+
+In this activity, I analysed data from the **Crime Survey for England and Wales, 2013–2014: Unrestricted Access Teaching Dataset**. The focus was on visualising:
+
+1. Levels of **anti-social behaviour** (`antisocx`)
+2. **Crime victimisation** over the past 12 months (`bcsvictim`)
+
+---
+
+## 🔧 Setup – Install and Load Required Packages
+
+```r
+# Install required packages if not already installed
+install.packages("haven")
+install.packages("ggplot2")
+install.packages("dplyr")
+
+# Load the packages
+library(haven)
+library(ggplot2)
+library(dplyr)
+# Load the dataset (replace with your actual file path)
+data <- read_sav("PATH/TO/YOUR/csew1314teachingopen.sav")
+boxplot(data$antisocx,
+        main = "Levels of anti-social behaviour in neighbourhood ‘antisocx’",
+        col = "purple",      # Box colour
+        border = "blue",     # Border colour
+        outcol = "blue")     # Outlier colour
+ggplot(data, aes(y = antisocx)) +
+  geom_boxplot(fill = "yellow", outlier.colour = "red") +
+  labs(title = "Levels of anti-social behaviour in neighbourhood ‘antisocx’",
+       y = "Anti-social behaviour score")
+
+
+
+
+ Summary: The boxplot shows the distribution and presence of outliers for perceived anti-social behaviour. ggplot2 provides more customisable visuals.
+
+data$bcsvictim <- as_factor(data$bcsvictim)
+barplot(table(data$bcsvictim),
+        col = "orange",
+        main = "Experience of Crime in the Past 12 Months",
+        ylab = "Number of Respondents")
+ggplot(data, aes(x = bcsvictim)) +
+  geom_bar(fill = "orange") +
+  labs(title = "Experience of Crime in the Past 12 Months",
+       x = "Crime Experience",
+       y = "Number of Respondents")
+ Summary: Most respondents reported not being victims of crime in the previous year. This supports earlier findings, with roughly 84% indicating no experience of crime.
+
+
+Anti-social Behaviour in the Neighbourhood (antisocx)
+
+I created a boxplot to visualize levels of anti-social behaviour in respondents’ neighbourhoods. Using ggplot2, I colored the plot yellow and highlighted outliers in red. The plot shows a slight right skew, indicating that while most respondents report low to moderate levels, some report significantly higher anti-social activity.
+
+Crime Victimisation (bcsvictim)
+
+A bar chart was created to show whether respondents experienced crime in the past 12 months. The majority of respondents did not experience crime. This visualization helps confirm that victimisation was relatively low in the surveyed sample.
