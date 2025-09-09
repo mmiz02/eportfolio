@@ -10,7 +10,7 @@
 
 ### About Me
 
-### [Professional][(https://www.linkedin.com/in/monique-mizzi-a414b435a/)]
+### [Professional](https://www.linkedin.com/in/monique-mizzi-a414b435a/)
 
 ### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
 
