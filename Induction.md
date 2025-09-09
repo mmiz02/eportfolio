@@ -1,8 +1,8 @@
 ## Collaborative Discussion 1 
 
-## The aim of the discussion was to critically evaluate the rationale behind the Internet of Things (IOT), in the context of the article by [Huxley et al (2020)] (https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures), highlighting the opportunities, limitations, risks and challenges associated with such a large-scale process of data collection.
+# Aim: Critically evaluate the rationale behind the Internet of Things (IOT), in the context of the article by [Huxley et al (2020)] (https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures), highlighting the opportunities, limitations, risks and challenges associated with such a large-scale process of data collection.
 
-# I created my initial post after reading the article by Huxley et al (2020) and reviewing other literature in conjunction. My main learning outcomes were to identify challenges, security issues and risks, limitations and opportunities in data wrangling, which I feel I managed to mention.
+I created my initial post after reading the article by Huxley et al (2020) and reviewing other literature in conjunction. My main learning outcomes were to identify challenges, security issues and risks, limitations and opportunities in data wrangling, which I feel I managed to mention.
 
 ## Initial Post
 
