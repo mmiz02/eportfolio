@@ -6,7 +6,7 @@
 
 ## Initial Post
 
-# The Internet of Things (IoT) represents an architecture made of billions of connected devices which generate large-scale real-time data (What is the Internet of Things (IoT)?, 2024). It offers vast opportunities such as transportation and traffic management to  reduce congestion and pollution (Dychok, 2023).
+The Internet of Things (IoT) represents an architecture made of billions of connected devices which generate large-scale real-time data (What is the Internet of Things (IoT)?, 2024). It offers vast opportunities such as transportation and traffic management to  reduce congestion and pollution (Dychok, 2023).
 
 Leveraging such data requires robust data wrangling practices to transform messy, raw data into a clean, usable format for analysis (Applebaum & Fudge, 2024). Since IoT data comes from various sources, data heterogeneity is an issue which complicates integration and analysis. Data collection in itself is also challenging as edge devices may have limited connectivity. This could increase gaps and data errors, along with measurement noise which need to be addressed prior to data being analysed. Additionally, they generate huge volumes of data, leading to big data and the need for increased computational and storage costs. This highlights the importance of data wrangling to maintain analytical accuracy(Applebaum & Fudge, 2024).
 
