@@ -2,27 +2,27 @@
 
 ![](https://user-images.githubusercontent.com/36738165/119046119-505f9980-b98a-11eb-9e40-7e4173db03f3.png)
 
-# Steve Johnson, CISSP, CVP       
+# Monique Mizzi       
 
-## MSc. Cybersecurity Cohort May 2021
+## MSc. Data Science Cohort January 2025
 
 ---
 
 ### About Me
 
-### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
+### [Professional][(https://www.linkedin.com/in/monique-mizzi-a414b435a/)]
 
 ### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
 
 
-### University of Essex Learning Experience
+### Deciphering Big Data July 2025 - ePortfolio
 
-*   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
-*   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [Module 2 Title](http://example.com/)
-*   [Module 3 Title](http://example.com/)
-*   [Module 4 Title](http://example.com/)
-*   [Module 5 Title](http://example.com/)
+*   [Collaborative Discussion Forum Summaries](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
+*   [Outcomes from the Team Exercises](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Reflection](http://example.com/)
+*   [Formative Activities](http://example.com/)
+*   [About me](http://example.com/)
+*   
 
 ---
 
