@@ -22,7 +22,7 @@
 *   [Weeks 4 - 5: Data Cleaning (lecturecast)](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Week 6: Clinical Trial Database - Team Project](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Week 7: Normalisation and Data Build Tasks](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [Weeks 8 - 10: Collaborative Discussion 2](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Weeks 8 - 10: Collaborative Discussion 2](collab-disc2.md)
 *   [Week 10: API Security Requirements](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Week 11: Executive Summary](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Week 11 cont: Back Up Procedure](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
