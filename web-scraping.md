@@ -34,12 +34,6 @@ The script successfully found 1 Data Scientists job and saved it in JSON format.
 [← Back to Home](../index.md)
 
 
-## Reflections
-- This exercise taught me how to parse and extract relevant data from web pages.
-- I gained practical experience with `requests`, `BeautifulSoup`, and JSON.
-- A challenge was handling different HTML structures; I overcame it by inspecting elements carefully using browser developer tools.
-
-
 
 
 
