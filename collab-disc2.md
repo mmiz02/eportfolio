@@ -1,3 +1,8 @@
+---
+layout: default
+title: Collaborative Discussion 2
+---
+
 # Collaborative Discussion 2
 
 ## Aim: Compare the rules of the GDPR - particularly regarding the securing of personal data with similar compliance laws in the UK, focusing on the ICO's "Security" principle and associated standards and exemptions.
