@@ -10,18 +10,23 @@
 
 ### About Me
 
-### [Professional](https://www.linkedin.com/in/monique-mizzi-a414b435a/)
+### [Professional/Personal Development](https://www.linkedin.com/in/monique-mizzi-a414b435a/)
 
-### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
+### 
 
 
 ### Deciphering Big Data July 2025 - ePortfolio
 
-*   [Collaborative Discussion Forum Summaries](https://github.com/mmiz02/eportfolio/blob/master/Induction.html)
-*   [Outcomes from the Team Exercises](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [Reflection](http://example.com/)
-*   [Formative Activities](http://example.com/)
-*   [About me](http://example.com/)
+*   [Weeks1 - 3: Collaborative Discussion 1](https://github.com/mmiz02/eportfolio/blob/master/Induction.html)
+*   [Week 3: Web Scraping](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Weeks 4 - 5: Data Cleaning (lecturecast)](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Week 6: Clinical Trial Database - Team Project](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Week 7: Normalisation and Data Build Tasks](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Weeks 8 - 10: Collaborative Discussion 2](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Week 10: API Security Requirements](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Week 11: Executive Summary](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Week 11 cont: Back Up Procedure](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Reflective Essay](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   
 
 ---
