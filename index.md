@@ -18,6 +18,7 @@
 ### Deciphering Big Data July 2025 - ePortfolio
 
 *   [Weeks1 - 3: Collaborative Discussion 1](https://github.com/mmiz02/eportfolio/blob/master/Induction.html)
+*   [Weeks 1 - 3: Collaborative Discussion 1](collab-disc1.md)
 *   [Week 3: Web Scraping](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Weeks 4 - 5: Data Cleaning (lecturecast)](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Week 6: Clinical Trial Database - Team Project](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
