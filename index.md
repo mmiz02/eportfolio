@@ -3,7 +3,6 @@
 <img src="/images/IMG_1476.png" alt="Me" width="230" height="300">
 
 
-
 # Monique Mizzi       
 
 ## MSc. Data Science Cohort January 2025
