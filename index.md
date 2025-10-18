@@ -21,8 +21,8 @@
 *   [Week 7: Normalisation and Data Build Tasks](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Weeks 8 - 10: Collaborative Discussion 2](collab-disc2.md)
 *   [Week 10: API Security Requirements](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [Week 11: Executive Summary](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   [Week 11 cont: Back Up Procedure](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Week 11.1: Executive Summary](exec-summary.md)
+*   [Week 11.2: Back Up Procedure](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Reflective Essay](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 
 ---
