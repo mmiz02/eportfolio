@@ -1,4 +1,3 @@
-Chose IPStack
 # API Security Requirements - IPStack
 
 ## Aim
@@ -61,7 +60,7 @@ The following output was received, showing that the code worked:
 {'ip': '134.201.250.155', 'type': 'ipv4', 'continent_code': 'NA', 'continent_name': 'North America', 'country_code': 'US', 'country_name': 'United States', 'region_code': 'CA', 'region_name': 'California', 'city': 'Huntington Beach', 'zip': '92647', 'latitude': 33.70962142944336, 'longitude': -117.99259185791016, 'msa': '31100', 'dma': '803', 'radius': '0', 'ip_routing_type': 'fixed', 'connection_type': 'tx', 'location': {'geoname_id': 5358705, 'capital': 'Washington D.C.', 'languages': [{'code': 'en', 'name': 'English', 'native': 'English'}], 'country_flag': 'https://assets.ipstack.com/flags/us.svg', 'country_flag_emoji': '🇺🇸', 'country_flag_emoji_unicode': 'U+1F1FA U+1F1F8', 'calling_code': '1', 'is_eu': False}}
 ```
 
-**Main Takeaways:**
+## Main Takeaways
 - IPstack requires an access key to authenticate requests, meaning only authorised users can query the service. This prevents abuse. In this example, the key was assigned directly in the code fo demonstration purposes. In reality, it shouldbe stored securely in environmental variables or external configuration files.
 - HTTPS is enforced and 'verify=True' ensures all requests are encrypted in transit, protecting the API key and the data from interception (ex:MITM attacks).
 - Using 'try/except' with 'resp.raise_forstatus() to handle errors so that errors are noticed instead of the system silently failing.
@@ -75,6 +74,15 @@ The following output was received, showing that the code worked:
 Moreover, this task was supposed to be completed as a team, however, I was abroad during this period and therefore had to complete this task independently. I missed the opportunity to discuss ideas and gain different perspectives from teammates, which could have helped clarify this complex topic. On the other hand, working independently strengthened my technical and problem-solving skills since I had to research the documentation and implement the Python code on my own.
 
 ## Conclusion
-This exercise taught me how to evaluate API security requirements and to mitigate threats such as key exposure or MITM attacks, alikgning with the learning objectives of this task.
+This exercise taught me how to evaluate API security requirements and to mitigate threats such as key exposure or MITM attacks, aligning with the learning objectives of this task.
+
+## References
+*API endpoint: IPStack* (no date) APILayer. Available at: https://docs.apilayer.com/ipstack/docs/ipstack-api-v-1-0-0#/default/lookupIpAddress (Accessed: 18 October 2025). 
+
+Bruce, M. (2025) *Protecting your apis from Owasp’s top 10 security threats* , Google. Available at: https://cloud.google.com/blog/products/identity-security/protecting-your-apis-from-owasps-top-10-security-threats (Accessed: 18 October 2025). 
+
+*Getting started: Ipstack* (no date) APILayer. Available at: https://docs.apilayer.com/ipstack/docs/api-documentation (Accessed: 18 October 2025). 
+
+*What are API security threats?*  (no date) Akamai. Available at: https://www.akamai.com/glossary/what-are-api-security-threats (Accessed: 18 October 2025). 
 
 [← Back to Home](https://mmiz02.github.io/eportfolio/)
