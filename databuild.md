@@ -7,7 +7,7 @@ Following the completion of the normalisation task, the aim of this task was to:
 - Test referential integrity to ensure relationships between tables are enforced correctly.
 
 ## Steps Taken
-Using the 3NFstructure designed earlier and shown in this [Excel](nf.xlsx) file, the following tables were created:
+Using the 3NF structure designed earlier and shown in this [Excel](nf.xlsx) file, the following tables were created:
 - 'Student',
 - 'Course',
 - 'ExamBoard',
