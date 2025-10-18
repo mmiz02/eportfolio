@@ -25,8 +25,8 @@ SELECT * FROM Enrollment;
 
 The below figures were outputted:
 
-![](Fig3.png)
-![](Fig4.png)
+![](/images/Fig3.png)
+![](/images/Fig4.png)
 
 These show that the tables were included into the database as planned.
 
@@ -84,7 +84,7 @@ INSERT INTO Enrollment (EnrollmentID, StudentID, CourseID)
 VALUES (36, 1006, 16);
 ```
 The following was outputted:
-![](Fig5.png)
+![](/images/Fig5.png)
 
 This shows that the new student was added correctly and that relational integrity is upheld.
 
