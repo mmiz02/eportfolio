@@ -9,7 +9,11 @@ Our team, acting as Software Consultants and Developers, was contracted to desig
 PostgreSQL was adopted as our database management system, supported by AWS RDS for hosting and AWS S3 for unstructured data, including medical images (AWS, 2025; EMA, 2023). The system was designed around a structured data management pipeline (Figure 1) and an entity-relationship model (Figure 2), ensuring relational integrity, normalisation (3NF), and security.
 
 ![Figure 1 – Data Management Pipeline](/images/Fig1.png)
+*Figure 1:* Data Management Pipeline
+
+
 ![Figure 2 – Entity–Relationship Diagram](/images/Fig2.png)
+*Figure 2:* Entity–Relationship Diagram
 
 
 ## Data Management Pipeline
