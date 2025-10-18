@@ -1,6 +1,6 @@
 ## E-Portfolio of   
 
-![](/images/me.png)
+![](/images/IMG_1476.png)
 
 # Monique Mizzi       
 
