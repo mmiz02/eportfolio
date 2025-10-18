@@ -37,6 +37,7 @@ Unmatched columns detected:
   windex5r: ['0', '3', '5', '4', '2']
 
 Intermediate cleaned CSV saved as mn_clean_intermediate.csv
+```
 
 From the above, I could deduce what some of the unmatched columns were. 'Unnamed' was probably an index, 'mwelevel' was educational level. However, further inspecton is required to be certain.
 
