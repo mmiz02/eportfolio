@@ -46,11 +46,11 @@ My contribution included researching hosting solutions, choosing datatypes for t
 ## Online Meeting Minutes and Collaboration
 Our team started collaborating over email. After coming up with a rough idea of the type of company, the ERD, and the database pipeline, we held meetings on Zoom to distinguish between our roles and document our progress, ensuring effective collaboration.
 
-23rd August 2025 - The current draft was discussed in line with the task instructions. I proposed building on the entity description and database build, to which Sonya was assigned. Dean added further suggestions regarding the database build. I was assigned with researching hosting solutions.
+**23rd August 2025** - The current draft was discussed in line with the task instructions. I proposed building on the entity description and database build, to which Sonya was assigned. Dean added further suggestions regarding the database build. I was assigned with researching hosting solutions.
 
 We all agreed to review the document as a whole and edit as needed. Sonya and I agreed to review the lecturecast in Unit 6 to ensure our project aligned with expectations. It was agreed that we would have a finalised draft by 1st September.
 
-3rd September 2025 - Could not attend this meeting as I had prior arrangements. The final version of the report was agreed upon and sent to me for final proofreading.
+**3rd September 2025** - Could not attend this meeting as I had prior arrangements. The final version of the report was agreed upon and sent to me for final proofreading.
 
 We collaborated using shared GoogleDocs, which improved transparency, traceability, and accountability.
 
