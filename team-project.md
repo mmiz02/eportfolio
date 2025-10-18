@@ -10,8 +10,8 @@ PostgreSQL was adopted as our database management system, supported by AWS RDS f
 
 > Figures and diagrams (ERD, data flow pipeline) can be embedded here as screenshots or `.png` files stored in your repository:
 > ```markdown
-> ![Figure 1 – Data Management Pipeline](Screenshot 2025-10-18 at 11.18.54.png)
-> ![Figure 2 – Entity–Relationship Diagram](Screenshot 2025-10-18 at 11.19.46.png)
+> ![Figure 1 – Data Management Pipeline](images/Screenshot 2025-10-18 at 11.18.54.png)
+> ![Figure 2 – Entity–Relationship Diagram](images/Screenshot 2025-10-18 at 11.19.46.png)
 > ```
 
 ## Data Management Pipeline
