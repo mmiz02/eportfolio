@@ -27,7 +27,7 @@ Include some words bitch
 *   [Weeks 8 - 10: Collaborative Discussion 2](collab-disc2.md)
 *   [Week 10: API Security Requirements](api-security.md)
 *   [Week 11.1: Executive Summary](exec-summary.md)
-*   [Week 11.2: Back Up Procedure](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Week 11.2: Back Up Procedure](gfs.md)
 *   [Reflective Essay](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 
 ---
