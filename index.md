@@ -1,6 +1,6 @@
 ## E-Portfolio of   
 
-<img src="/images/IMG_1476.png" alt="Me" width="230" height="250">
+<img src="/images/IMG_1476.png" alt="Me" width="230" height="300">
 
 
 
