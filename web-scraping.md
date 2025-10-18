@@ -13,12 +13,13 @@ Using Python's 'requests' and 'BeautifulSoup' modules, I performed web scraping 
 8. Ensured all fields were correctly populated.
 
 ## Output
+```
 {
         "title": "Data scientist", <br />
         "company": "Thomas Group", <br />
         "location": "Port Robertfurt, AA", <br />
         "link": "[](https://realpython.github.io/fake-jobs/jobs/data-scientist-26.html)"
-
+```
 The script successfully found 1 Data Scientists job and saved it in JSON format.
 
 ## Learning Outcomes
