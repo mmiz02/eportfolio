@@ -18,4 +18,4 @@ Exploring GFS has strengthened my underestanding of hierarchichal backup systems
 - Ability to compare different backup methods
 
 ## References
-Błocki, Ł. (2024) *Grandfather-father-son (GFS) backup: Storware blog*, Storware. Available at: https://storware.eu/blog/grandfather-father-son-gfs-backup/ (Accessed: 18 October 2025). 
+Blocki, L. (2024) *Grandfather-father-son (GFS) backup: Storware blog*, Storware. Available at: https://storware.eu/blog/grandfather-father-son-gfs-backup/ (Accessed: 18 October 2025). 
