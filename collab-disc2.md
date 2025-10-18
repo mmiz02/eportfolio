@@ -28,4 +28,7 @@ Annear, R. et al. (2025) *UK Data Reforms unpacked: Making international data tr
 
 European Union (2016) *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data* … (General Data Protection Regulation). Article 32. Available at: https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng (Accessed: 26 September 2025).
 
+[← Back to Home](https://mmiz02.github.io/eportfolio/)
+
+
 *Penalties* (2024) ICO. Available at: https://ico.org.uk/for-organisations/law-enforcement/guide-to-le-processing/penalties/ (Accessed: 17 October 2025).
