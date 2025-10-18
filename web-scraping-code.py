@@ -50,9 +50,3 @@ with open("data_scientist_jobs.json", "r", encoding="utf-8") as f:
 
 print(json.dumps(data, indent=4, ensure_ascii=False))
 
-Giving me the final output, showing the only available Data Scientist job:
-        "title": "Data scientist",
-        "company": "Thomas Group",
-        "location": "Port Robertfurt, AA",
-        "link": "https://realpython.github.io/fake-jobs/jobs/data-scientist-26.html"
-    }
