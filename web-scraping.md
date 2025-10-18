@@ -17,7 +17,7 @@ Using Python's 'requests' and 'BeautifulSoup' modules, I performed web scraping 
         "title": "Data scientist", <br />
         "company": "Thomas Group", <br />
         "location": "Port Robertfurt, AA", <br />
-        "[link]": "(https://realpython.github.io/fake-jobs/jobs/data-scientist-26.html)"
+        "link": "[](https://realpython.github.io/fake-jobs/jobs/data-scientist-26.html)"
 
 The script successfully found 1 Data Scientists job and saved it in JSON format.
 
@@ -31,7 +31,8 @@ The script successfully found 1 Data Scientists job and saved it in JSON format.
 - [Python Script](web-scraping-code.py)
 
   
-[← Back to Home](../index.md)
+[← Back to Home](https://mmiz02.github.io/eportfolio/)
+
 
 
 
