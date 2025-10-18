@@ -21,9 +21,9 @@ Looking at the table above, a mistake was noticed where the exam board for Maths
   
 2. Convert to 2NF
    - Removed partial dependencies by ensuring that non-key attributes depend on the entire composite key,
-   - Data was split into separate tables:
-        i) 'Student' - stores student details
-       ii) 'Course' - stores course details
+   - Data was split into separate tables: <br /> 
+        i) 'Student' - stores student details <br /> 
+       ii) 'Course' - stores course details <br /> 
       iii) 'Enrollment' - links students and courses
 
 3. Convert to 3NF
