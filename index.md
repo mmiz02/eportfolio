@@ -1,6 +1,6 @@
 ## E-Portfolio of   
 
-![](\images\me.png)
+![](/images/me.png)
 
 # Monique Mizzi       
 
@@ -24,10 +24,6 @@
 *   [Week 11: Executive Summary](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Week 11 cont: Back Up Procedure](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
 *   [Reflective Essay](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
-*   
 
 ---
 
----
-
-Page template forked from [evanca](https://github.com/evanca/quick-portfolio)
