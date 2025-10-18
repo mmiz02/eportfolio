@@ -42,7 +42,3 @@ This task improved my understanding of how databases are structured and why norm
 
 [← Back to Home](https://mmiz02.github.io/eportfolio/)
 
-
-
-**✅ Outcome:**  
-A fully normalised database structure (1NF → 2NF → 3NF) demonstrating best practice in relational design.
