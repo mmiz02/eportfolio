@@ -1,7 +1,6 @@
 ## E-Portfolio of   
 
-<img src="/images/IMG_1476.png" alt="Me" width="230" height="300">
-
+![](/images/me.png)
 
 # Monique Mizzi       
 
