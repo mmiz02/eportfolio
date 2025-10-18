@@ -11,7 +11,7 @@ To normalise the table below to 3rd Normal Form (3NF), showing each step of the 
 | 1004 | Anas Ali | 70 | No | 03/08/1980 | Maths, Physics, Biology | AQA, OCR, WJEC | Ms Parker, Mr Peters, Mrs Patel |
 | 1005 | Cheuk Yin | 45 | Yes | 01/05/2002 | Computer Science, Maths, Music | BCS, EdExcel, AQA | Mr Jones, Ms Parker, Ms Daaniels |
 
-Looking at the table above, a mistake was noticed where the exam board for Maths was sometimes referred to as EdExcel and sometimes as AQA. The correct exam board for mMths was taken to be EdExcel. This was the only exam board used in the 2NF and 3NF sheets.
+Looking at the table above, a mistake was noticed where the exam board for Maths was sometimes referred to as EdExcel and sometimes as AQA. The correct exam board for Maths was taken to be EdExcel. This was the only exam board used in the 2NF and 3NF sheets.
 
 ## Steps Taken
 1. Convert to 1NF
