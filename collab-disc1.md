@@ -20,8 +20,7 @@ encouraged me to think more critically about balancing technical solutions with 
 and ethical obligations.
 
 # What I Learned:
-
-Through this eercise, I developed a deeper undersanding of the complexities
+Through this exercise, I developed a deeper undersanding of the complexities
 involved in IoT data management. I recognised that data wrangling is not just a
 technical process but is also influenced by regulatory, ethical, and organisational
 factors. I learned the importance of addressing privacy, consent, and secure data
@@ -29,7 +28,6 @@ handling alongside data quality. the peer discussions helped me think critically
 practical solutions which I had not fully considered before, such as edge computing.
 
 # Skills developed:
-
 - Critical analysis of IoT data management challenges and opportunities
 - Data wrangling methodologies when applied to heterogenous, real-time datasets
 - Better awareness of cybersecurity and privacy compliance considerations
