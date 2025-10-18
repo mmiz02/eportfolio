@@ -9,11 +9,13 @@ Our team, acting as Software Consultants and Developers, was contracted to desig
 PostgreSQL was adopted as our database management system, supported by AWS RDS for hosting and AWS S3 for unstructured data, including medical images (AWS, 2025; EMA, 2023). The system was designed around a structured data management pipeline (Figure 1) and an entity-relationship model (Figure 2), ensuring relational integrity, normalisation (3NF), and security.
 
 ![Figure 1 – Data Management Pipeline](/images/Fig1.png)
-*Figure 1:* Data Management Pipeline
+*Figure 1: Data Management Pipeline (Developed by the team based on Williams, 2025; European Union, 2016; EMA, 2023).*
+
+
 
 
 ![Figure 2 – Entity–Relationship Diagram](/images/Fig2.png)
-*Figure 2:* Entity–Relationship Diagram
+*Figure 2: Entity–Relationship Diagram – Clinical Trial Database (Developed by the team; compliance considerations refereced from EMA, 2023; Sarkar & Roychowdhury, 2019).*
 
 
 ## Data Management Pipeline
@@ -69,8 +71,13 @@ Through this project I learned more about database pipelines and management syst
 
 ## References
 Amazon Web Services (2025). *Amazon RDS for PostgreSQL – Features.* Available at: [https://aws.amazon.com/rds/postgresql/](https://aws.amazon.com/rds/postgresql/)  
+
 European Medicines Agency (2023). *Guideline on computerised systems and electronic data in clinical trials (EMA/INS/GCP/112288/2023).* EMA, Amsterdam.  
--European Union (2016). *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (GDPR).* Available at: [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj)  
-Google Cloud (2025). *Cloud SQL for PostgreSQL.* Available at: [https://cloud.google.com/sql/postgresql](https://cloud.google.com/sql/postgresql)  
+
+European Union (2016). *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 (GDPR).* Available at: [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj)  
+
+Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python: creating actionable data from raw sources. 1st edition. Birmingham; Packt Publishing Ltd.
+
+Williams, G. (2025) Deciphering Big Data [module materials]. University of Essex Online, July- October.
 
 [← Back to Home](https://mmiz02.github.io/eportfolio/)
