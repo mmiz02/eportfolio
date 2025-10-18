@@ -1,7 +1,7 @@
 # Executive Summary - Design and Build of a Secure, Scalable, and Compliant Clinical Trial Database
 
 ## Aim
-To write an executive summary on the design and build of the database system proposed for managing global clinical trial data in the team report of Unit 6. Unlike the team project which was a collaorative technical exercise, this summary presents an individual analysis which proposed the database solution in a concise, user-friendly format.
+To write an executive summary on the design and build of the database system proposed for managing global clinical trial data in the team report of Unit 6. Unlike the team project which was a collaborative technical exercise, this summary presents an individual analysis which proposed the database solution in a concise, user-friendly format.
 
 ## Overview
 The proposed system supports a global clinical trials organisation which manages sensitive data, including patien demographics, medical images, and trial outcomes. It must comply with GDPR (European Union, 2016) and other global standards to ensure traceability, transparency, and protection of patient rights.
