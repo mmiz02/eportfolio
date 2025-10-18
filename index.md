@@ -10,8 +10,12 @@
 ---
 
 ### About Me:
+Detail-oriented professional, currently working as a Radiation Protection Regulator with the Radiation Protection Commission in Malta. Pursuing a Master's in Data Science with the University of Essex, I'm passionate about deriving insights from data and hope to be able to apply it to guide future regulatory decisions to improve public and environmental safety.
+
+This portfolio showcases a selection of tasks and projects from this module along with a Reflective essay, outlining my learning journey and key takeaways. 
 
 ### [Professional/Personal Development](https://www.linkedin.com/in/monique-mizzi-a414b435a/)
+Include some words bitch
 
 ### Deciphering Big Data July 2025 - ePortfolio
 
