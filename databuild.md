@@ -83,7 +83,7 @@ VALUES (1006, 'Liam Patel', 82, 'No', '2000-04-12');
 INSERT INTO Enrollment (EnrollmentID, StudentID, CourseID)
 VALUES (36, 1006, 16);
 ```
-The following was outputted:
+The following was outputted: <br/>
 ![](/images/Fig5.png)
 
 This shows that the new student was added correctly and that relational integrity is upheld.
