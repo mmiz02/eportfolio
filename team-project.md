@@ -54,8 +54,10 @@ We all agreed to review the document as a whole and edit as needed. Sonya and I 
 
 We collaborated using shared GoogleDocs, which improved transparency, traceability, and accountability.
 
+Alongside the assignment, we also submitted a Peer Review Form to evaluate our teamwork. I gave my teammates a positive review since we collaborated well together and divided the work fairly, and this was reflected in the lecturer's feedback.
+
 ## Feedback and Reflection
-Feedback from lecturer.
+The feedback received from the lecturer was very positive which gave me the confidence to start working on the Executive Summary, knowing I was on the right path.
 
 Through this project I learned more about database pipelines and management systems. I also got a deeper understanding of hosting solutions and DBMS selection depending on company needs and alignment with regulatory and GDPR requirememts.
 
