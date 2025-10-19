@@ -4,13 +4,13 @@
 To write an executive summary on the design and build of the database system proposed for managing global clinical trial data in the team report of Unit 6. Unlike the team project which was a collaborative technical exercise, this summary presents an individual analysis which proposed the database solution in a concise, user-friendly format.
 
 ## Overview
-The proposed system supports a global clinical trials organisation which manages sensitive data, including patien demographics, medical images, and trial outcomes. It must comply with GDPR (European Union, 2016) and other global standards to ensure traceability, transparency, and protection of patient rights.
+The proposed system supports a global clinical trials organisation which manages sensitive data, including patient demographics, medical images, and trial outcomes. It must comply with GDPR (European Union, 2016) and other global standards to ensure traceability, transparency, and protection of patient rights.
 
 The key requirements were:
-- **Security** - encryption, pseudonymisation, and auditability
-- **Scalability** - capable of handling large data volumes with mixed formats from global sources, which will probably grow in future
-- **Compliance** - meeting strict GDPR and regulatory standards
-- **Usability** - allowing authorised stakeholders secure and validated access to data
+- **Security** - encryption, pseudonymisation, and auditability,
+- **Scalability** - capable of handling large data volumes with mixed formats from global sources, which will probably grow in future,
+- **Compliance** - meeting strict GDPR and regulatory standards,
+- **Usability** - allowing authorised stakeholders secure and validated access to data.
 
 ## Data Management Pipeline
 The project followed a structured pipeline to safeguard data integrity, minimise error, and ensure regulatory compliance (Figure 1).
@@ -44,7 +44,7 @@ Key entities included:
 - Medical Images; stores metadata of available medical images and links to external cloud storage site where image is held.
 
 ## Database Management System (DBMS) Selection
-PostgreSQL, Microsoft SQL Server, and NoSQL were compare, from which PostgreSQL was chosen for its reliability, security, and compliance. It was also more cost-effective thn Microsoft SQL Server, which would have been more expensive and led to vendor-depenency. NoSQL would have been more suitable for unstructured data but it  had reduced compliance and auditability.
+PostgreSQL, Microsoft SQL Server, and NoSQL were compare, from which PostgreSQL was chosen for its reliability, security, and compliance. It was also more cost-effective than Microsoft SQL Server, which would have been more expensive and led to vendor-depenency. NoSQL would have been more suitable for unstructured data but it had reduced compliance and auditability.
 
 ## Hosting Solution
 Amazon Web Services (AWS) was chosen as it provided automated backups, global data-storing centers, and GDPR compliance (AWS, 2025). It also offered storage options (S3) for unstructured data and is widely used for clinical research.
@@ -73,7 +73,7 @@ Recommendations include providing training to users on data validation processes
 ## Comparison to Team Project
 The database solution was elaborated further in the executive summary which is contradictory since a summary is supposed to be shorter and more concise, however the word limit was double that of the team project. This was because the assignment required reflection on design choices and deeper explanation for the potential client. 
 
-In contrast to the team project, less technical jargon was used such as coding structure, and I concentrated on translating technical elements into a business and compliance-oriented narrative which would be more understandable for the client with a better appeal. The goal was to explain why design decisions were made and how they aligned with the client's requirements.
+In contrast to the team project, less technical jargon was used, such as coding structure, and I concentrated on translating technical elements into a business and compliance-oriented narrative which would be more understandable for the client with a better appeal. The goal was to explain why design decisions were made and how they aligned with the client's requirements.
 
 ## Reflection
 The process of converting a technical report into an executive summary allowed me to learn a new communication and writing style, taking into consideration a new audience, and translating technical jargon into easily understandable concepts.
