@@ -1,9 +1,9 @@
 # UNICEF Dataset Cleaning & Automation
 
 ## Aim
-The aim of this task was to clean and prepare the UNICEF Multiple Cluster Survey (MICS) dataset (mn.csv) for analysis. The dataset contains survey responses with acronyms as headers, which need to be replaced with readable headers from mn_headers.csv. This process involved identifying missing headers, handling missing data, normalising values, and ensuring consistency.
+To clean and prepare the UNICEF Multiple Cluster Survey (MICS) dataset (mn.csv) for analysis. The dataset contains survey responses with acronyms as headers, which need to be replaced with readable headers from mn_headers.csv. This process involved identifying missing headers, handling missing data, normalising values, and ensuring consistency.
 
-The goal was also to create areusable and partially automated workflow using Python (*pandas*) for future similar datasets. This task was done in weeks 4 and 5 and the dataset were extracted directly from the textbook's Github repository instead of creating the data files myself from the UNICEF's website due to time constraints. The *pandas* method was used as this was easiest.
+The goal was also to create a reusable and partially automated workflow using Python for future similar datasets. This task was done in weeks 4 and 5 and the datasets were extracted directly from the textbook's Github repository instead of creating the data files myself from the UNICEF's website due to time constraints. The *pandas* method was used as this was easiest.
 
 The code used can be found in the **Code** section below.
 
@@ -44,17 +44,17 @@ From the above, I could deduce what some of the unmatched columns were. 'Unnamed
 The clean version of mn.csv may be viewed [here](mn_clean_intermediate.csv).
 
 ## Conclusion
-The workflow is partially automated. Most of the manual effort required for data cleaning has been reduced but human oversight is required where mappings are missing. With minor enhancements, such as automatic detection of numeric/categorical columns and placeholder headers for unmatched columns, this workflow could be applied to future UNICEF datasers.
+The workflow is partially automated. Most of the manual effort required for data cleaning has been reduced but human oversight is required where mappings are missing. With minor enhancements, such as automatic detection of numeric/categorical columns and placeholder headers for unmatched columns, this workflow could be applied to future UNICEF datasets.
 
 ## Skills gained
-- Python data wrangling with pandas
-- Data cleaning practices
-- Automation - writing reusable functions and designing a pipeline applicable to future datasets
-- Fuzzy strin matching
-- Critical thinking in data quality - Deciding how to handle missing data while maintaining integrity of the dataset
+- Python data wrangling with pandas,
+- Data cleaning practices,
+- Automation - writing reusable functions and designing a pipeline applicable to future datasets,
+- Fuzzy string matching,
+- Critical thinking in data quality - deciding how to handle missing data while maintaining integrity of the dataset.
 
 ## Reflection
-Working on this task allowed me to work directly with real-world survey data. While these datasets were structured, the use of acronyms and missing headers highlighted the need for careful inspection and flexible cleaning workflows. I learned how to automate workflows, handle inconsistent or missing data, and map raw data to readable form.
+Working on this task allowed me to work with real-world survey data. While these datasets were structured, the use of acronyms and missing headers highlighted the need for careful inspection and flexible cleaning workflows. I learned how to automate workflows, handle inconsistent or missing data, and map raw data to readable form.
 
 Overall, this task strengthened my skills in Python and my critical thinking abilities.
   
