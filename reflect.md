@@ -29,7 +29,7 @@ At the beginning of the module, I felt both excitement and apprehension. I had g
 One success I was proud of was that whilst previously I had not managed to develop my e-portfolio due to time constraints, this module, I placed a strong emphasis on time management and managed to document my learning journey. 
 
 ![](/Images/epor.png)
-*Figure 3: Snippet of my e-portfolio showing progress in my time-management, documentation, and GitHub skills.
+*Figure 3: Snippet of my e-portfolio showing progress in my time-management, documentation, and GitHub skills.*
 
 As the module progressed, I started gaining more confidence in handling technical tasks. Successfully implementing a relational database using MySQL gave me a sense of accomplishment. This task reinforced my understanding of normalisation principles. Completing the API security exercise independently strengthened my problem-solving skills, while the executive summary task challenged me to appeal to a new audience while translating complex technical concepts into easily understandable jargon.
 ```
