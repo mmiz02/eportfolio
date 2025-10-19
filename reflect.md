@@ -15,7 +15,7 @@ I engaged in a variety of tasks and projects, from collaborative discussions and
 *Figure 1: 1 Job listing found after web scraping task was successful.*
 -	Cleaning and automating UNICEF survey datasets with *pandas*, applying data wrangling techniques such as mapping headers, handling missing values, and creating reusable functions.
 -	Collaboration to propose a clinical trial database solution involving relational modelling, database normalisation, and cloud hosting evaluation.
-![](/Images/Fig2.png)
+![](/images/Fig2.png)
 *Figure 2: Entity–Relationship Diagram of the Clinical Trial Database our team proposed showing links between tables using primary and foreign keys.*
 -	Normalisation (3NF) of a flat table, turning it into a relational database.
 -	Specification of security risks and mitigations for IPstack data.
@@ -28,7 +28,7 @@ At the beginning of the module, I felt both excitement and apprehension. I had g
 
 One success I was proud of was that whilst previously I had not managed to develop my e-portfolio due to time constraints, this module, I placed a strong emphasis on time management and managed to document my learning journey. 
 
-![](/Images/epor.png)
+![](/images/epor.png)
 *Figure 3: Snippet of my e-portfolio showing progress in my time-management, documentation, and GitHub skills.*
 
 As the module progressed, I started gaining more confidence in handling technical tasks. Successfully implementing a relational database using MySQL gave me a sense of accomplishment. This task reinforced my understanding of normalisation principles. Completing the API security exercise independently strengthened my problem-solving skills, while the executive summary task challenged me to appeal to a new audience while translating complex technical concepts into easily understandable jargon.
