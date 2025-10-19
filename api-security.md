@@ -23,7 +23,7 @@ To define and mitigate security risks associated with integrating the IPStack AP
 ## Security Requirements & Mitigations
 
 **Authentication and Authorisation**
-- API keys should be properly secured (such as in an external config file) to protect against unauthorised access. OAuth and multi-factor authentication should be used for authorisation (What are API security threats?, n.d.)
+- API keys should be properly secured (such as in an external config file) to protect against unauthorised access. OAuth and multi-factor authentication could be used for authorisation (What are API security threats?, n.d.)
 - Care should be taken not to expose keys in URLs when sharing scripts.
 - Keys should be rotated regularly and restricted by domain or IP (as supported by IPstack).
 
@@ -52,16 +52,16 @@ To define and mitigate security risks associated with integrating the IPStack AP
 *Most importantly, follow the Open Worldwide Application Security Project (OWASP) guidelines for securing APIs (What are API security threats?, n.d.).*
 
 # Code
-The secure implementation example in Python can be donwloaded [here](api.py).
+The secure implementation example in Python can be found [here](api.py).
 
 # Output
-The following output was received, showing that the code worked:
+The following output was received, showing that the code worked since the IP information was received:
 ```
 {'ip': '134.201.250.155', 'type': 'ipv4', 'continent_code': 'NA', 'continent_name': 'North America', 'country_code': 'US', 'country_name': 'United States', 'region_code': 'CA', 'region_name': 'California', 'city': 'Huntington Beach', 'zip': '92647', 'latitude': 33.70962142944336, 'longitude': -117.99259185791016, 'msa': '31100', 'dma': '803', 'radius': '0', 'ip_routing_type': 'fixed', 'connection_type': 'tx', 'location': {'geoname_id': 5358705, 'capital': 'Washington D.C.', 'languages': [{'code': 'en', 'name': 'English', 'native': 'English'}], 'country_flag': 'https://assets.ipstack.com/flags/us.svg', 'country_flag_emoji': '🇺🇸', 'country_flag_emoji_unicode': 'U+1F1FA U+1F1F8', 'calling_code': '1', 'is_eu': False}}
 ```
 
 ## Main Takeaways
-- IPstack requires an access key to authenticate requests, meaning only authorised users can query the service. This prevents abuse. In this example, the key was assigned directly in the code fo demonstration purposes. In reality, it shouldbe stored securely in environmental variables or external configuration files.
+- IPstack requires an access key to authenticate requests, meaning only authorised users can query the service. This prevents abuse. In this example, the key was assigned directly in the code fo demonstration purposes. In reality, it should be stored securely in environmental variables or external configuration files.
 - HTTPS is enforced and 'verify=True' ensures all requests are encrypted in transit, protecting the API key and the data from interception (ex:MITM attacks).
 - Using 'try/except' with 'resp.raise_forstatus() to handle errors so that errors are noticed instead of the system silently failing.
 - The API returns a JSON object containing the IP address, country, city, latitude, and longitude, which can be stored or analysed, as needed.
