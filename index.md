@@ -32,7 +32,7 @@ This e-portfolio has significantly contributed to my professional and personal g
 *   [Week 10: API Security Requirements](api-security.md)
 *   [Week 11.1: Executive Summary](exec-summary.md)
 *   [Week 11.2: Back Up Procedure](gfs.md)
-*   [Reflective Essay](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Reflective Essay](reflect.md)
 
 ---
 
