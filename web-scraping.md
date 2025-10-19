@@ -1,11 +1,11 @@
 # Web Scraping Project - Data Scientists Job Listings
 
-Using Python's 'requests' and 'BeautifulSoup' modules, I performed web scraping to extract job listings for the keyword **Data Scientist**. The scraped data was saved in JSON format and the code I used can be found in the **Artefacts** section..
+Using Python's '*requests*' and '*BeautifulSoup*' modules, I performed web scraping to extract job listings for the keyword **Data Scientist**. The scraped data was saved in JSON format and the code I used can be found in the **Code** section.
 
 ## Steps Taken
 1. Used robots.txt to ascertain whether I could even scrape the website legally. After checking various websites, I decided to use the Real Python fake jobs page.
-2. Used Python's 'requests' library to send a GET request to the website.
-3. Used 'BeautifulSoup' to parse the HTML response.
+2. Used Python's '*requests*' library to send a GET request to the website.
+3. Used '*BeautifulSoup*' to parse the HTML response.
 4. Located each job post ontainer ('div.card-content') and extracted relevant tags.
 5. Converted job titles to lowercase and selected only those containing "data scientist".
 6. Stored the extracted jobs in a JSON file ('data_scientist_jobs.json') for easy retrieval and sharing.
@@ -20,15 +20,15 @@ Using Python's 'requests' and 'BeautifulSoup' modules, I performed web scraping 
         "location": "Port Robertfurt, AA", <br />
         "link": "[](https://realpython.github.io/fake-jobs/jobs/data-scientist-26.html)"
 ```
-The script successfully found 1 Data Scientists job and saved it in JSON format.
+The script successfully found 1 Data Scientist job and saved it in JSON format.
 
 ## Learning Outcomes
-- Used different Python libraries, gaining practical experience with 'requests', 'BeautifulSoup', and JSON. 
+- Used different Python libraries, gaining practical experience with '*requests*', '*BeautifulSoup*', and JSON. 
 - Enhanced my understanding on parsing, extracting data from web pages, and web protocols.
 - Extracted structured data from semi-structured HTML.
 - Processed and stored extracted data in JSON format.
 
-## Artefacts
+## Code
 - [Python Script](web-scraping-code.py)
 
   
