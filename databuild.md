@@ -66,7 +66,7 @@ The following was outputted:
 ```
 ERROR 1451 (23000): Cannot delete or update a parent row: a foreign key constraint fails (`normalisationdb`.`enrollment`, CONSTRAINT `enrollment_ibfk_2` FOREIGN KEY (`CourseID`) REFERENCES `course` (`CourseID`))
 ```
-Meaning referential integrity was preserved since one can't delete a course which is in use by enrollments.
+Meaning referential integrity was preserved since one cannot delete a course which is in use by enrollments.
 
 4. Add a new, valid record.
 ```
