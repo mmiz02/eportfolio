@@ -22,7 +22,7 @@ PostgreSQL was adopted as our database management system, supported by AWS RDS f
 Our proposed pipeline included:
 1. **Data Capture:** Data is captured via electronic data capture systems in a standardised structured manner.
 2. **Validation:** Mandatory fields are enforced during data entry, and validation methods such as range checks are used to minimise entry errors.
-3. **Cleaning:** Data will be standardised and machine learning methods will be used o flag anomalies. All changes to data will be traceable.
+3. **Cleaning:** Data will be standardised and machine learning methods will be used to flag anomalies. All changes to data will be traceable.
 4. **Storage:** PostgreSQL will be used ensuring integrity, with encryption at rest and in transit.
 5. **Retrieval:** Data will have role-based access with audit trails logging access, edits, and queries.
 
@@ -31,8 +31,7 @@ PostgreSQL was chosen due to its:
 - Reliable and flexible storage of mixed data, supporting JSON for its device data.
 - Secure linkage to external storage.
 - Support of machine learning.
-- Strong auditing,  encryption, and regulatory compliance features.
-
+- Strong auditing, encryption, and regulatory compliance features.
 - Alternatives such as Microsoft SQL Server and NoSQL databases were evaluated but found less suitable due to vendor dependency and limited relational integrity and auditability.
 
 ## Hosting Solution
@@ -64,10 +63,10 @@ The feedback received from the lecturer was very positive which gave me the conf
 Through this project I learned more about database pipelines and management systems. I also got a deeper understanding of hosting solutions and DBMS selection depending on company needs and alignment with regulatory and GDPR requirememts.
 
 ## Skills Developed
-- Database design and relational modelling (ERD, 3NF)
-- Data pipeline design and validation techniques
-- Technical writing and documentation
-- Team communication and collaboration using remote tools
+- Database design and relational modelling (ERD, 3NF),
+- Data pipeline design and validation techniques,
+- Technical writing and documentation,
+- Team communication and collaboration using remote tools.
 
 ## References
 Amazon Web Services (2025). *Amazon RDS for PostgreSQL – Features.* Available at: [https://aws.amazon.com/rds/postgresql/](https://aws.amazon.com/rds/postgresql/)  
