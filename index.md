@@ -20,7 +20,7 @@ This e-portfolio has significantly contributed to my professional and personal g
 
 ---
 
-### Deciphering Big Data July 2025 - ePortfolio
+### Deciphering Big Data July 2025 - e-Portfolio Entries
 
 *   [Weeks 1 - 3: Collaborative Discussion 1](collab-disc1.md)
 *   [Week 3: Web Scraping](web-scraping.md)
